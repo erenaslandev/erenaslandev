@@ -17,6 +17,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/erenaslan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="erenaslan" /></a><a href="https://ko-fi.com/erenaslan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="erenaslan" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenaslandev&show_icons=true&theme=dark&locale=en" alt="erenaslandev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenaslandev&count_private=true&include_all_commits=true&show_icons=true&theme=dark&locale=en" alt="erenaslandev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenaslandev&theme=dark" alt="erenaslandev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenaslandev&count_private=true&include_all_commits=true&theme=dark" alt="erenaslandev" /></p>
